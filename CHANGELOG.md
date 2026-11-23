@@ -1,3 +1,4 @@
+- 2026-11-23: routine check: README examples verified against the current release
 # Changelog
 
 ## v4.6.2 (20 Dec 2021)
